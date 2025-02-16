@@ -1,4 +1,4 @@
-# 2025 - Data-Analytics Projects
+# 2025 - Data Analytics Projects
 
 Welcome to my GitHub repository! Here, I showcase my skills in Data Analytics through various case studies completed during my time at WBS Coding School. These projects demonstrate my ability to work with SQL, Python, essential data analysis libraries such as Pandas, Matplotlib, Seaborn, and BI Tools like Tableau and Power BI.
 
