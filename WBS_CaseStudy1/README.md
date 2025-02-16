@@ -1,4 +1,4 @@
-# 📌 Eniac’s Expansion to Brazil – Data-Driven Market Analysis
+# Eniac’s Expansion to Brazil – Data-Driven Market Analysis
 
 ## 📖 Overview
 In Fall 2018, Eniac, a Spain-based online marketplace specializing in Apple-compatible accessories, explored an expansion into Brazil. With pressure from investors to scale globally, the company faced a major challenge: lacking local market knowledge, logistics partners, and supply chain infrastructure.
@@ -28,7 +28,7 @@ This project analyzes Magist’s database, evaluates the market landscape, and p
 
 ---
 
-## 📌 Key Findings
+##  💡 Key Findings
 📌 **Brazil is a promising market, but challenges exist.**  
 📌 **Magist's infrastructure is optimized for SMBs, not premium brands.**  
 📌 **Delivery reliability is a concern – 10% of shipments are delayed.**  
