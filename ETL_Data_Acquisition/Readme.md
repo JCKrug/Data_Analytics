@@ -1,4 +1,4 @@
-# Gans E-Scooter ETL Pipeline
+# ETL Pipeline - Gans E-Scooter Case Study
 
 ## Project Overview
 
