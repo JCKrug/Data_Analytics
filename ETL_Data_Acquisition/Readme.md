@@ -21,8 +21,8 @@ This project focuses on building a local ETL pipeline to extract data from vario
 
 ## Data Collection
 
-- Web Scraping: Extracting relevant data from publicly accessible websites.
-- APIs: Accessing structured data from external services.
+- Web Scraping: Extracting relevant data from publicly accessible websites > Wikipedia.
+- APIs: Accessing structured data from external services > .
 
 ## Data Transformation
 
