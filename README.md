@@ -1,6 +1,6 @@
 # 2025 - Data Analytics Projects
 
-Welcome to my GitHub repository! Here, I showcase my skills in Data Analytics through various case studies completed during my time at WBS Coding School. These projects demonstrate my ability to work with SQL, Python, essential data analysis libraries such as Pandas, Matplotlib, Seaborn, and BI Tools like Tableau and Power BI.
+Welcome to my GitHub repository! Here, I showcase my skills in Data Analytics through various case studies mainly completed during my time at WBS Coding School 12/2024-03/2025. These projects demonstrate my ability to work with SQL, Python, essential data analysis libraries such as Pandas, Matplotlib, Seaborn, and BI Tools like Tableau, Google Looker Studio and Power BI.
 
 ## What You'll Find in This Repository:
 
@@ -8,7 +8,7 @@ Welcome to my GitHub repository! Here, I showcase my skills in Data Analytics th
 
 - Python & Pandas: Data cleaning, manipulation, and analysis.
 
-- Data Visualization: Insights presented using Matplotlib, Seaborn, Tableau and Power BI.
+- Data Visualization: Insights presented using Matplotlib, Seaborn, Tableau, Google Looker Studio and Power BI.
 
 - Case Studies: Real-world inspired analytical projects solving business problems.
 
@@ -20,7 +20,7 @@ Welcome to my GitHub repository! Here, I showcase my skills in Data Analytics th
 
 - Python (pandas, numpy, matplotlib, seaborn)
 
-- Tableau and Power BI for interactive dashboards and data visualization
+- Tableau, Google Looker Studio and Power BI for interactive dashboards and data visualization
 
 - Jupyter Notebook for interactive data exploration
 
