@@ -21,10 +21,10 @@ This project analyzes Magist’s database, evaluates the market landscape, and p
 ---
 
 ## 📝 Deliverable
-📂 **Final Presentation:** The deliverable of this project is a concise, data-backed **presentation** summarizing the key findings and recommendations.
+📂[**Final Presentation**](https://github.com/JCKrug/Data_Analytics/raw/main/SQL%26Tableau_E-Commerce_Market_Expansion/20250109_Findings_Presentation_A_data-driven_compatibility_check.pdf) The deliverable of this project is a concise, data-backed **presentation** summarizing the key findings and recommendations.
 
 ⏳ **Time Limit:** 5 minutes  
-📊 **Tools Used:** Tableau, Google Slides, SQL and Python (for data analysis)  
+📊 **Tools Used:** Tableau, Google Slides, SQL and Python
 
 ---
 
