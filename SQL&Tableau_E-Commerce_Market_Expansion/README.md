@@ -10,6 +10,8 @@ To bridge this gap, Eniac considered partnering with Magist, a Brazilian SaaS co
 
  ⚠️ This was one of the first projects during a 3.5-month intensive Data Analytics Bootcamp at WBS Coding School. We were given access to Magist’s raw and extensive database and tasked with evaluating its strategic fit by analyzing the data, assessing the market landscape, and ultimately delivering a data-driven recommendation on whether Eniac should sign a 3-year deal with Magist.
 
+**⏰ Case Study Duration**: 4 days (in January 2025)
+
 ---
 
 ## 📊 Scope & Objectives
