@@ -31,10 +31,10 @@ To bridge this gap, Eniac considered partnering with Magist, a Brazilian SaaS co
 ---
 
 ##  💡 Key Findings & Final Recommendation
-📌 Brazil is a promising market, but challenges exist.  
-📌 Magist's infrastructure is optimized for SMBs, not premium brands.
-📌 Delivery reliability is a concern – 10% of shipments are delayed.
-📌 Magist’s pricing model does not align with Eniac’s premium positioning. 
+-  Brazil is a promising market, but logistical challenges exist.  
+-  Magist's infrastructure is optimized for SMBs, not premium brands.  
+-  Delivery reliability is a concern – 10% of shipments are delayed.  
+-  Magist’s pricing model does not align with Eniac’s premium positioning.
 
 📢 **Final Recommendation: Do not proceed with Magist.**  
 🔍 Instead, Eniac should evaluate alternative logistics partners better suited to its premium brand, such as Intelipost or Novatrade Brazil.  
