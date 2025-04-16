@@ -21,7 +21,7 @@ To bridge this gap, Eniac considered partnering with Magist, a Brazilian SaaS co
 ---
 
 ## 📝 Deliverables
-1. [**Final Presentation**](https://github.com/JCKrug/Data_Analytics/raw/main/SQL%26Tableau_E-Commerce_Market_Expansion/20250109_Findings_Presentation_A_data-driven_compatibility_check.pdf) The main deliverable of this project was a concise **presentation** summarizing the key findings and recommendations. **Time Limit: 5 minutes**
+1. [**Final Presentation**](https://github.com/JCKrug/Data_Analytics/blob/main/SQL%26Tableau_E-Commerce_Market_Expansion/20250109_Final_presentation_A_data-driven_compatibility_check_Entering_Brazil_Eniac.pdf) The main deliverable of this project was a concise **presentation** summarizing the key findings and recommendations. **Time Limit: 5 minutes**
 2. [**Selected Business Questions solved via MySQL**](https://github.com/JCKrug/Data_Analytics/blob/main/SQL%26Tableau_E-Commerce_Market_Expansion/Business_questions_Magist.sql), [**Database Schema**](https://github.com/JCKrug/Data_Analytics/blob/main/SQL%26Tableau_E-Commerce_Market_Expansion/magist_database_schema_sql.pdf) 
 3. [**Tableau Key Visualizations**](https://public.tableau.com/app/profile/yuliia.tisnozub/viz/EniacProject_17363059356760/Dashboard12)
 
