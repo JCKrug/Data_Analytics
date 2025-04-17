@@ -59,9 +59,9 @@ Four homepage versions were tested:
 ---
 
 ## 📦 Deliverables
-- 🧠 [**A/B Testing Theory Presentation (PDF)**] (https://github.com/JCKrug/Data_Analytics/blob/main/AB-Test_Homepage_ChiSquare/AB_Testing_Theory_and_Industry_Best_Practices.pdf)
+- 🧠 [**A/B Testing Theory Presentation (PDF)**](https://github.com/JCKrug/Data_Analytics/blob/main/AB-Test_Homepage_ChiSquare/AB_Testing_Theory_and_Industry_Best_Practices.pdf)
   → Conceptual foundation: Best practices for setting up A/B tests, testing strategy, pitfalls to avoid.
-- 📊 [**A/B Test Analysis Notebook (Jupyter Notebook)**] (https://github.com/JCKrug/Data_Analytics/blob/main/AB-Test_Homepage_ChiSquare/AB_Test_Chi_Square_Homepage_Eniac.ipynb)
+- 📊 [**A/B Test Analysis Notebook (Jupyter Notebook)**](https://github.com/JCKrug/Data_Analytics/blob/main/AB-Test_Homepage_ChiSquare/AB_Test_Chi_Square_Homepage_Eniac.ipynb)
   → Full statistical workflow: Data cleaning, Chi-Square test, post-hoc testing, and visualization.
 
 ---
