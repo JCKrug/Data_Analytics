@@ -6,7 +6,7 @@ The project consisted of two major parts:
 - A **theoretical research presentation** to establish best practices for A/B testing setup
 - A **practical A/B test analysis** based on real web interaction data
 
-The main focus was the **“SHOP NOW”** button promoting the iPhone 13, which initially had a low **click-through rate (CTR) of just 2%**.
+The main focus was the **“SHOP NOW”** button promoting the iPhone 13, which initially had a low **click-through rate (CTR).
 
 ---
 
